@@ -1,0 +1,18 @@
+{
+    "posts": [
+        {
+            "title" : "My Cool Posts",
+            "auther": "Muhammed Salama"
+        },
+        {
+            "title" : "Another Awesome Posts",
+            "auther": "Muhammed Salama"
+        }
+    ],
+
+    "profile": {
+        "first_name": "Muhammed",
+        "last_name": "Salama",
+        "email": "mohamed96salama@gmail.com"
+    }
+}
